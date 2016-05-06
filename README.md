@@ -3,6 +3,7 @@ WiFi Gateway for MySensors network
 
 Arduino sketch and PCB for an ESP8266 based WiFi Gateway for MySensors network (NRF24)</br>
 It uses a Wemos D1 mini and a NRF24L01+ module boards</br>
+It uses a mains power supply
 
 It fits perfectly in a small and low cost enclosure from  SUPERTRONIC reference PP73N :</br>
 http://www.tme.eu/fr/details/pp73n/boitiers-dappar-dalarme-et-de-capt/supertronic/
@@ -20,5 +21,6 @@ Take care when soldering the wemos D1 mini's breakout pins to solder them accord
         WiFi module</br>
 ---------- PCB ----------</br>
 
-See also in Pictures folder
+See also in Pictures folder</br>
+
 
