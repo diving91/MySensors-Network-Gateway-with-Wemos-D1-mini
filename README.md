@@ -11,7 +11,7 @@ http://www.tme.eu/fr/details/pp73n/boitiers-dappar-dalarme-et-de-capt/supertroni
 Note that in this PCB the Wemos module is mounted with</br>
 -ESP WiFi module bottom side</br>
 -CH340 & USB upper side</br>
-This is the opposite side of common usage, but it greatly easy the use of the USB connector</br>
+This is the opposite side of common usage, but it greatly ease the use of the USB connector</br>
 This is easily done since the Wemos D1 mini module comes with unsoldered breakout pins</br>
 Take care when soldering the wemos D1 mini's breakout pins to solder them accordingly to the PCB layout of this repository</br>
 
