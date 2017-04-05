@@ -22,5 +22,6 @@ Take care when soldering the wemos D1 mini's breakout pins to solder them accord
 ---------- PCB ----------</br>
 
 See also in Pictures folder</br>
+<img src="https://github.com/diving91/MySensors-Network-Gateway-with-Wemos-D1-mini/blob/master/Pictures/_DSC7558.jpg">
 
 
